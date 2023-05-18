@@ -1,21 +1,10 @@
-#Introducing the Network Intrusion Detection System
+<h2>Introducing the Network Intrusion Detection System</h2>
 
-Our cutting-edge Network Intrusion Detection System (NIDS) is a powerful tool designed to safeguard your website and network from malicious activities. Developed using state-of-the-art technologies and incorporating various components, including Python models, React.js, Firebase authentication, Bootstrap, and machine learning algorithms, our system offers advanced protection and accurate detection of network intrusions.
+Our cutting-edge Network Intrusion Detection System (NIDS) is a powerful tool designed to safeguard your website and network from malicious activities. Developed using state-of-the-art technologies and incorporating various components, including Python models, React.js, Firebase authentication, Bootstrap,Flask and machine learning algorithms, our system offers advanced protection and accurate detection of network intrusions.
 
 The primary objective of our NIDS is to analyze the network that your website is connected to and identify any signs of abnormal behavior. By constantly monitoring network traffic, our system can quickly detect and classify different types of intrusions, ensuring the security of your digital assets.
 
 Using a multi-classification approach, our NIDS categorizes intrusions into four main classes: Denial of Service (DoS), Probe, User to Root (U2R), and Remote to Local (R2L). Each class represents a distinct type of intrusion, allowing you to understand the nature and severity of any detected anomalies accurately.
-
-The foundation of our NIDS lies in the deployment of powerful Python models and machine learning algorithms. These models have been trained extensively to recognize patterns and indicators of suspicious activity, enabling the system to differentiate between normal network behavior and potential threats.
-
-To provide a seamless user experience, our system incorporates React.js for an intuitive and responsive user interface. This modern web framework ensures that you can effortlessly navigate through the system's features, visualize intrusion reports, and take necessary actions to mitigate potential risks.
-
-Furthermore, we have integrated Firebase authentication for secure user authentication and authorization, ensuring that only authorized personnel can access and manage the system.
-
-The design of our NIDS includes the utilization of Bootstrap, a popular CSS framework, to enhance the system's aesthetics and responsiveness across various devices and screen sizes. This ensures that you can effectively monitor and respond to network intrusions from anywhere, using any device.
-
-In summary, our Network Intrusion Detection System provides comprehensive protection against malicious activities targeting your website and network. By employing Python models, React.js, Firebase authentication, Bootstrap, and machine learning algorithms, our system offers accurate detection, classification, and visualization of intrusions, enabling you to safeguard your digital assets and maintain a secure online presence.
-
 
 Walkthrough of my website...
 <br>
